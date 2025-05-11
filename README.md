@@ -6,33 +6,6 @@ This repository contains my daily Python practice as I work through foundational
 
 ---
 
-## 📅 Weekly Breakdown
-
-### 🔰 Week 1: Python Basics
-- **Day 1:** Variables, Data Types, Comments
-- **Day 2:** Input/Output
-- **Day 3:** Operators
-- **Day 4:** Conditionals
-- **Day 5:** Logical Operators & Membership
-- **Day 6:** Mini Quiz App
-- **Day 7:** Git Refresher & Repo Setup
-
-### 🔁 Week 2: Loops & Collections
-- **Day 8:** `while` Loops
-- **Day 9:** `for` Loops
-- **Day 10:** `range()` and Loop Patterns
-- **Day 11:** Lists
-- **Day 12:** Tuples
-- **Day 13:** Sets
-- **Day 14:** Dictionaries
-
-### 🧠 Week 3: Functions, Files, and Errors *(coming up)*
-- **Day 15–21:** Functions, Lambda, File I/O, Error Handling, Mini Projects
-
-### ⚙️ Week 4: Intermediate Python *(coming up)*
-- **Day 22–30:** List Comprehension, OOP, Modules, Final Project
-
----
 
 ## ✅ Progress Tracking
 
@@ -50,22 +23,7 @@ At the end of 30 days, I will build a mini Python project using all the concepts
 
 ---
 
-## 📁 Repo Structure
 
-30_Days_of_PYTHON/
-
--├── day_1.py
-
--├── day_2.py
-
--├── ...
-
--├── day_30.py (eventually)
-
--└── README.md
-
-
----
 
 ## 🔗 Follow My Journey
 
